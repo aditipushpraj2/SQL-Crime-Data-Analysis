@@ -45,5 +45,11 @@ The dataset used for this project is a crime dataset containing details such as 
 19. Find crimes reported in 2020
 20. Find top 5 areas with most crimes
 
-## Key Learning
-This project helped me practice beginner SQL concepts and understand how SQL can be used to explore real-world datasets.
+## Key Insights
+
+- Central and Southwest areas showed high crime activity.
+- Certain crime types appeared significantly more frequently than others.
+- Nighttime crime occurrences were common after 8 PM.
+- Crimes involving weapons represented a notable portion of incidents.
+- Single-family dwellings were among common crime locations.
+- Victim demographics showed trends across age and gender categories.
